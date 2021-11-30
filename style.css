@@ -1,3 +1,45 @@
-body {
+h2 {
+  color: #EFEBCE;
+  font-size: 200%;
+}
+h2 {
+  border-style:double;
+  border-color: #A3A380
+}
+body {background-color:#D8A48F
+}
 
+img {
+  border: 5px ridge #A3A380;
+}
+
+p{ color: #EFEBC2;
+  font-size: 30px
+}
+li{ color: #A1A392;
+font-size: 20px;
+  list-style-type: square
+}
+
+ul {
+  text-align:center;
+   list-style: inside;
+}
+ul,p {
+  border-style: double;
+}
+
+
+table,tr,td {
+  border: 3px double;
+  border-color: grey;
+  padding: 20px
+}
+
+table {
+  table-width: 60%;
+}
+
+tr:hover {
+  background-color: teal;
 }
