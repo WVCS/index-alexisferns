@@ -43,3 +43,39 @@ table {
 tr:hover {
   background-color: teal;
 }
+
+h1{
+  text-align: center;
+  color: purple;
+}
+
+body {
+  background-color: darkseagreen;
+}
+
+img { 
+  border: purple double 5px}
+
+#nav {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position; fixed;
+  background-color: grey;
+  
+}
+
+li a{
+  display: block;
+  float: left;
+  padding: 20px 45px;
+  color: pink
+}
+
+li a:hover {
+  color: black;
+}
+
+a{ 
+  text-decoration: none;
+}
