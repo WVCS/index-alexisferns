@@ -62,13 +62,12 @@ img {
   overflow: hidden;
   position; fixed;
   background-color: grey;
-  class="list-unstyled"
   
 }
 
 li a{
   display: block;
-  float: left;
+  float: center;
   padding: 20px 45px;
   color: pink
 }
