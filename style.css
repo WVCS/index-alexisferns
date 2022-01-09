@@ -58,7 +58,7 @@ img {
 
 #nav {
   list-style-type: none;
-  width: 90%;
+  width: 100%;
   overflow: hidden;
   position; fixed;
   background-color: grey;
@@ -70,7 +70,6 @@ li a{
   float: left;
   padding: 20px 45px;
   color: pink
-  class="list-unstyled"
 }
 
 li a:hover {
