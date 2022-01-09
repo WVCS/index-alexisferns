@@ -62,6 +62,7 @@ img {
   overflow: hidden;
   position; fixed;
   background-color: grey;
+  class="list-unstyled"
   
 }
 
